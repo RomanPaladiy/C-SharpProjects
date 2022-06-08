@@ -41,6 +41,7 @@ namespace IncomeComparison
             int salaryPerson2 = combinedInfo2 * 52;
             Console.WriteLine(salaryPerson2);
 
+            // Comparing both salaries to see which makes more. 
             Console.WriteLine("Does Person 1 make more money than Person 2: ");
             bool TrueOrFalse = salaryPerson1 > salaryPerson2;
             Console.WriteLine(TrueOrFalse);
