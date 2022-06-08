@@ -1,0 +1,7 @@
+C:\Users\roman\Documents\GitHub\C-SharpProjects\InsuranceQualification\InsuranceQualification\bin\Debug\InsuranceQualification.exe.config
+C:\Users\roman\Documents\GitHub\C-SharpProjects\InsuranceQualification\InsuranceQualification\bin\Debug\InsuranceQualification.exe
+C:\Users\roman\Documents\GitHub\C-SharpProjects\InsuranceQualification\InsuranceQualification\bin\Debug\InsuranceQualification.pdb
+C:\Users\roman\Documents\GitHub\C-SharpProjects\InsuranceQualification\InsuranceQualification\obj\Debug\InsuranceQualification.csproj.AssemblyReference.cache
+C:\Users\roman\Documents\GitHub\C-SharpProjects\InsuranceQualification\InsuranceQualification\obj\Debug\InsuranceQualification.csproj.CoreCompileInputs.cache
+C:\Users\roman\Documents\GitHub\C-SharpProjects\InsuranceQualification\InsuranceQualification\obj\Debug\InsuranceQualification.exe
+C:\Users\roman\Documents\GitHub\C-SharpProjects\InsuranceQualification\InsuranceQualification\obj\Debug\InsuranceQualification.pdb
