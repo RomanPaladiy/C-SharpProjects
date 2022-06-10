@@ -10,6 +10,14 @@ namespace ConsoleApp
     {
         static void Main(string[] args)
         {
+
+            int i = 0;
+            while (i < 10)
+            {
+                Console.WriteLine(i);
+                i++;
+            }
+
             // Basic switch statement
             Console.WriteLine("Guess a number?");
             int number = Convert.ToInt32(Console.ReadLine());
@@ -40,7 +48,7 @@ namespace ConsoleApp
                         guessedNum = true;
                         break;
                     default:
-                        Console.WriteLine(" Nope, you are wrong!");
+                        Console.WriteLine("Nope, you are wrong!");
                         Console.WriteLine("Choose a number?");
                         number = Convert.ToInt32(Console.ReadLine());
                         break;
