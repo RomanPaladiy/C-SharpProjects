@@ -16,47 +16,38 @@ namespace ShippingQuote
             // Prompting package weight.
             Console.WriteLine("Please enter the package weight:");
             int packWeight = Convert.ToInt32(Console.ReadLine());
-            if (packWeight > 50)
+            if(packWeight > 50)
             {
                 Console.WriteLine("Package is too big to be shipped via Package Express.");
-                Console.ReadLine();
-                Environment.Exit(0);
             }
-
-            // Prompting package width.
-            Console.WriteLine("Please enter the package width:");
-            int packWidth = Convert.ToInt32(Console.ReadLine());
-            if (packWidth > 50)
+            else
             {
-                Console.WriteLine("Package is too big to be shipped via Package Express.");
-                Console.ReadLine();
-                Environment.Exit(1);
+                // Prompting package width.
+                Console.WriteLine("Please enter the package width:");
+                int packWidth = Convert.ToInt32(Console.ReadLine());
+
+                // Prompting package height.
+                Console.WriteLine("Please enter the package height:");
+                int packHeight = Convert.ToInt32(Console.ReadLine());
+
+                // Prompting package length.
+                Console.WriteLine("Please enter the package length:");
+                int packLength = Convert.ToInt32(Console.ReadLine());
+
+                int sumDimensions = (packHeight + packLength + packWidth);
+                if (sumDimensions > 50)
+                {
+                    Console.WriteLine("Package is too big to be shipped via Package Express.");
+                }
+                else
+                {
+                    // Calculating the inputs to generate a quote.
+                    Console.WriteLine("Your estimated total for shipping this package is: $");
+                    int totalNum = (packHeight * packWidth * packLength);
+                    Console.WriteLine(totalNum * packWeight / 100);
+                }
             }
 
-            // Prompting package height.
-            Console.WriteLine("Please enter the package height:");
-            int packHeight = Convert.ToInt32(Console.ReadLine());
-            if (packHeight > 50)
-            {
-                Console.WriteLine("Package is too big to be shipped via Package Express.");
-                Console.ReadLine();
-                Environment.Exit(2);
-            }
-
-            // Prompting package length.
-            Console.WriteLine("Please enter the package length:");
-            int packLength = Convert.ToInt32(Console.ReadLine());
-            if (packLength > 50)
-            {
-                Console.WriteLine("Package is too big to be shipped via Package Express.");
-                Console.ReadLine();
-                Environment.Exit(3);
-            }
-
-            // Calculating the inputs to generate a quote.
-            Console.WriteLine("Your estimated total for shipping this package is: $");
-            int totalNum = (packHeight * packWidth * packLength);
-            Console.WriteLine(totalNum * packWeight / 100);
             Console.ReadLine();
         }
     }
