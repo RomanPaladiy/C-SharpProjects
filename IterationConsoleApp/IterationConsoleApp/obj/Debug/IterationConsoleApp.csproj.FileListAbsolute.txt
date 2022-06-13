@@ -1,0 +1,7 @@
+C:\Users\roman\Documents\GitHub\C-SharpProjects\IterationConsoleApp\IterationConsoleApp\bin\Debug\IterationConsoleApp.exe.config
+C:\Users\roman\Documents\GitHub\C-SharpProjects\IterationConsoleApp\IterationConsoleApp\bin\Debug\IterationConsoleApp.exe
+C:\Users\roman\Documents\GitHub\C-SharpProjects\IterationConsoleApp\IterationConsoleApp\bin\Debug\IterationConsoleApp.pdb
+C:\Users\roman\Documents\GitHub\C-SharpProjects\IterationConsoleApp\IterationConsoleApp\obj\Debug\IterationConsoleApp.csproj.AssemblyReference.cache
+C:\Users\roman\Documents\GitHub\C-SharpProjects\IterationConsoleApp\IterationConsoleApp\obj\Debug\IterationConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\roman\Documents\GitHub\C-SharpProjects\IterationConsoleApp\IterationConsoleApp\obj\Debug\IterationConsoleApp.exe
+C:\Users\roman\Documents\GitHub\C-SharpProjects\IterationConsoleApp\IterationConsoleApp\obj\Debug\IterationConsoleApp.pdb
