@@ -1,0 +1,7 @@
+C:\Users\roman\Documents\GitHub\C-SharpProjects\StringsAndIntegers\StringsAndIntegers\bin\Debug\StringsAndIntegers.exe.config
+C:\Users\roman\Documents\GitHub\C-SharpProjects\StringsAndIntegers\StringsAndIntegers\bin\Debug\StringsAndIntegers.exe
+C:\Users\roman\Documents\GitHub\C-SharpProjects\StringsAndIntegers\StringsAndIntegers\bin\Debug\StringsAndIntegers.pdb
+C:\Users\roman\Documents\GitHub\C-SharpProjects\StringsAndIntegers\StringsAndIntegers\obj\Debug\StringsAndIntegers.csproj.AssemblyReference.cache
+C:\Users\roman\Documents\GitHub\C-SharpProjects\StringsAndIntegers\StringsAndIntegers\obj\Debug\StringsAndIntegers.csproj.CoreCompileInputs.cache
+C:\Users\roman\Documents\GitHub\C-SharpProjects\StringsAndIntegers\StringsAndIntegers\obj\Debug\StringsAndIntegers.exe
+C:\Users\roman\Documents\GitHub\C-SharpProjects\StringsAndIntegers\StringsAndIntegers\obj\Debug\StringsAndIntegers.pdb
