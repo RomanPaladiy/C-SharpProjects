@@ -18,10 +18,16 @@ namespace CallingMethods
             Methods mathObj = new Methods();
 
             // Using the methods from the Methods Class and passing it the input from above code.
-            mathObj.Multiplication(input);
-            mathObj.Division(input);
-            mathObj.Addition(input);
+            int result1 = mathObj.Multiplication(input);
+            Console.WriteLine("The product of the " + input + " multiplied by 23 is: " + result1);
 
+            int result2 = mathObj.Division(input);
+            Console.WriteLine("The quotient of " + input + " divided by 2 is: " + result2);
+
+            int result3 = mathObj.Addition(input);
+            Console.WriteLine("The sum of " + input + " and 18 is: " + result3);
+            Console.ReadLine();
         }
     }
+    
 }
