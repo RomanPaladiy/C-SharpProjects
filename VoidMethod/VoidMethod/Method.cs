@@ -8,6 +8,11 @@ namespace VoidMethod
 {
     class Method
     {
-
+        // Creating a void method which doesn't return anything.(Using 2 int params)
+        public void mathMethod(int firstNum, int secondNum)
+        {
+            int totalNum = firstNum + 5;
+            Console.WriteLine(secondNum);
+        }
     }
 }
