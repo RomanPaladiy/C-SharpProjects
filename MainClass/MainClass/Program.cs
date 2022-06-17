@@ -17,7 +17,11 @@ namespace MainClass
             // Instantiating the class. 
             Equation mathObj = new Equation();
 
+            int a = 2;
+            int b = 3;
+
             mathObj.Division(userNum);
+            mathObj.Addition(out a, out b);
 
             Console.ReadLine();
         }
