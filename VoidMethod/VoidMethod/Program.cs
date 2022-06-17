@@ -20,7 +20,8 @@ namespace VoidMethod
             // Prompting another user input to print to the console.
             Console.WriteLine("Please input another integer.");
             int userInput2 = Convert.ToInt32(Console.ReadLine());
-            mathObj.mathMethod(userInput, userInput2);
+            mathObj.mathMethod(3, 4);
+            mathObj.mathMethod(userInput, userInput2) ;
 
             Console.ReadLine();
         }

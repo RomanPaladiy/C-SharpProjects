@@ -1,0 +1,7 @@
+C:\Users\roman\Documents\GitHub\C-SharpProjects\MainClass\MainClass\bin\Debug\MainClass.exe.config
+C:\Users\roman\Documents\GitHub\C-SharpProjects\MainClass\MainClass\bin\Debug\MainClass.exe
+C:\Users\roman\Documents\GitHub\C-SharpProjects\MainClass\MainClass\bin\Debug\MainClass.pdb
+C:\Users\roman\Documents\GitHub\C-SharpProjects\MainClass\MainClass\obj\Debug\MainClass.csproj.AssemblyReference.cache
+C:\Users\roman\Documents\GitHub\C-SharpProjects\MainClass\MainClass\obj\Debug\MainClass.csproj.CoreCompileInputs.cache
+C:\Users\roman\Documents\GitHub\C-SharpProjects\MainClass\MainClass\obj\Debug\MainClass.exe
+C:\Users\roman\Documents\GitHub\C-SharpProjects\MainClass\MainClass\obj\Debug\MainClass.pdb
