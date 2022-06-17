@@ -21,7 +21,7 @@ namespace VoidMethod
             Console.WriteLine("Please input another integer.");
             int userInput2 = Convert.ToInt32(Console.ReadLine());
             mathObj.mathMethod(3, 4);
-            mathObj.mathMethod(userInput, userInput2) ;
+            mathObj.mathMethod(firstNum: 3, secondNum: 4) ;
 
             Console.ReadLine();
         }
