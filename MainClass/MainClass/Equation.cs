@@ -14,5 +14,12 @@ namespace MainClass
             int quotient = input / 2;
             Console.WriteLine(quotient);
         }
+
+        //Creating method with 2 output parameters and declaring it static.
+        static void Addition(out int number, out int number2)
+        { 
+            number = 10;
+            number2 = 20;
+        }
     }
 }
