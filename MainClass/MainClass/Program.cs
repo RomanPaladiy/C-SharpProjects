@@ -21,8 +21,8 @@ namespace MainClass
             int b = 3;
 
             mathObj.Division(userNum);
-            mathObj.Addition(out a, out b);
-
+            int result = mathObj.Addition(out a, out b);
+            Console.WriteLine(result);
             Console.ReadLine();
         }
     }
