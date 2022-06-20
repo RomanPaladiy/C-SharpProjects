@@ -1,0 +1,7 @@
+C:\Users\roman\OneDrive\Documents\GitHub\C-SharpProjects\Inheritance\Inheritance\bin\Debug\Inheritance.exe.config
+C:\Users\roman\OneDrive\Documents\GitHub\C-SharpProjects\Inheritance\Inheritance\bin\Debug\Inheritance.exe
+C:\Users\roman\OneDrive\Documents\GitHub\C-SharpProjects\Inheritance\Inheritance\bin\Debug\Inheritance.pdb
+C:\Users\roman\OneDrive\Documents\GitHub\C-SharpProjects\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.AssemblyReference.cache
+C:\Users\roman\OneDrive\Documents\GitHub\C-SharpProjects\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\roman\OneDrive\Documents\GitHub\C-SharpProjects\Inheritance\Inheritance\obj\Debug\Inheritance.exe
+C:\Users\roman\OneDrive\Documents\GitHub\C-SharpProjects\Inheritance\Inheritance\obj\Debug\Inheritance.pdb
