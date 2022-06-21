@@ -20,23 +20,6 @@ namespace TwentyOne
             }
             Console.WriteLine(deck.Cards.Count);
             Console.ReadLine();
-
-
-
-
-            //Game game = new TwentyOneGame();
-            //game.Players = new List<Player>();
-            //Player player = new Player();
-            //player.Name = "Roman";
-            //game += player;
-            //game -= player;
-
-
-            //TwentyOneGame game = new TwentyOneGame();
-            //game.Players = new List<string>() { "Jesse", "Bill", "Bob" };
-            //game.ListPlayers();
-            //Console.ReadLine();
         }
-
     }
 }
