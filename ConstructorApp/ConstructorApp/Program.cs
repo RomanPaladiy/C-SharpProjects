@@ -17,6 +17,12 @@ namespace ConstructorApp
             const string firstName = "Roman";
             Console.WriteLine("Hello, My name is {0} {1}.", firstName, lastName);
             Console.ReadLine();
+
+
+            Poodle p = new Poodle("Black");
+            Console.WriteLine("The " + p.GetColor() + " poodle says " + p.Speak());
+            Console.ReadLine();
+
         }
     }
 }
