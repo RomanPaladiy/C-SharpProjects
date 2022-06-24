@@ -18,11 +18,10 @@ namespace ConstructorApp
             Console.WriteLine("Hello, My name is {0} {1}.", firstName, lastName);
             Console.ReadLine();
 
+            RandomClass a = new RandomClass(), b = new RandomClass(500, "def"), c = new RandomClass(324), d = new RandomClass("abc");
 
-            Poodle p = new Poodle("Black");
-            Console.WriteLine("The " + p.GetColor() + " poodle says " + p.Speak());
+            Console.WriteLine(b);
             Console.ReadLine();
-
         }
     }
 }
