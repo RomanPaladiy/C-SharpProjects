@@ -5,10 +5,13 @@ C:\Users\roman\Documents\GitHub\C-SharpProjects\TwentyOne\TwentyOne\obj\Debug\Tw
 C:\Users\roman\Documents\GitHub\C-SharpProjects\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.CoreCompileInputs.cache
 C:\Users\roman\Documents\GitHub\C-SharpProjects\TwentyOne\TwentyOne\obj\Debug\TwentyOne.exe
 C:\Users\roman\Documents\GitHub\C-SharpProjects\TwentyOne\TwentyOne\obj\Debug\TwentyOne.pdb
+C:\Users\roman\OneDrive\Documents\GitHub\C-SharpProjects\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.CoreCompileInputs.cache
 C:\Users\roman\OneDrive\Documents\GitHub\C-SharpProjects\TwentyOne\TwentyOne\bin\Debug\TwentyOne.exe.config
 C:\Users\roman\OneDrive\Documents\GitHub\C-SharpProjects\TwentyOne\TwentyOne\bin\Debug\TwentyOne.exe
 C:\Users\roman\OneDrive\Documents\GitHub\C-SharpProjects\TwentyOne\TwentyOne\bin\Debug\TwentyOne.pdb
+C:\Users\roman\OneDrive\Documents\GitHub\C-SharpProjects\TwentyOne\TwentyOne\bin\Debug\Casino.dll
+C:\Users\roman\OneDrive\Documents\GitHub\C-SharpProjects\TwentyOne\TwentyOne\bin\Debug\Casino.pdb
 C:\Users\roman\OneDrive\Documents\GitHub\C-SharpProjects\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.AssemblyReference.cache
-C:\Users\roman\OneDrive\Documents\GitHub\C-SharpProjects\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.CoreCompileInputs.cache
+C:\Users\roman\OneDrive\Documents\GitHub\C-SharpProjects\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.CopyComplete
 C:\Users\roman\OneDrive\Documents\GitHub\C-SharpProjects\TwentyOne\TwentyOne\obj\Debug\TwentyOne.exe
 C:\Users\roman\OneDrive\Documents\GitHub\C-SharpProjects\TwentyOne\TwentyOne\obj\Debug\TwentyOne.pdb
