@@ -171,9 +171,9 @@ namespace CarInsurance.Controllers
                 totalCost += 25;
             }
 
-            if (insuree.SpeedingTickets < 0)
+            if (insuree.SpeedingTickets > 0)
             {
-                totalCost += 10;
+               totalCost += insuree.SpeedingTickets * 10 ;
             }
 
             if (insuree.DUI == true)
