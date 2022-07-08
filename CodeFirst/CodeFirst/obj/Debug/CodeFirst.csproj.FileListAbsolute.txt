@@ -1,0 +1,13 @@
+C:\Users\roman\OneDrive\Documents\GitHub\C-SharpProjects\CodeFirst\CodeFirst\bin\Debug\CodeFirst.exe.config
+C:\Users\roman\OneDrive\Documents\GitHub\C-SharpProjects\CodeFirst\CodeFirst\bin\Debug\CodeFirst.exe
+C:\Users\roman\OneDrive\Documents\GitHub\C-SharpProjects\CodeFirst\CodeFirst\bin\Debug\CodeFirst.pdb
+C:\Users\roman\OneDrive\Documents\GitHub\C-SharpProjects\CodeFirst\CodeFirst\bin\Debug\EntityFramework.dll
+C:\Users\roman\OneDrive\Documents\GitHub\C-SharpProjects\CodeFirst\CodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\roman\OneDrive\Documents\GitHub\C-SharpProjects\CodeFirst\CodeFirst\bin\Debug\EntityFramework.xml
+C:\Users\roman\OneDrive\Documents\GitHub\C-SharpProjects\CodeFirst\CodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\roman\OneDrive\Documents\GitHub\C-SharpProjects\CodeFirst\CodeFirst\obj\Debug\CodeFirst.csproj.AssemblyReference.cache
+C:\Users\roman\OneDrive\Documents\GitHub\C-SharpProjects\CodeFirst\CodeFirst\obj\Debug\CodeFirst.csproj.SuggestedBindingRedirects.cache
+C:\Users\roman\OneDrive\Documents\GitHub\C-SharpProjects\CodeFirst\CodeFirst\obj\Debug\CodeFirst.csproj.CoreCompileInputs.cache
+C:\Users\roman\OneDrive\Documents\GitHub\C-SharpProjects\CodeFirst\CodeFirst\obj\Debug\CodeFirst.csproj.CopyComplete
+C:\Users\roman\OneDrive\Documents\GitHub\C-SharpProjects\CodeFirst\CodeFirst\obj\Debug\CodeFirst.exe
+C:\Users\roman\OneDrive\Documents\GitHub\C-SharpProjects\CodeFirst\CodeFirst\obj\Debug\CodeFirst.pdb
