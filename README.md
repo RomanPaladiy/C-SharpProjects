@@ -1,6 +1,11 @@
 # C-SharpProjects
 
-These are some small projects I made using C# and .NET Framework
+This file was created to show a few of the projects I have created 
+using C# and the .Net Framework and to show my progress and the growth
+I have made. This repository is filled with my C# work which ranges from 
+Console Applications, Web Applications, and MVC ideology.
+
+These are some small projects I made using C# and .NET Framework.
 
 # Projects:
 
