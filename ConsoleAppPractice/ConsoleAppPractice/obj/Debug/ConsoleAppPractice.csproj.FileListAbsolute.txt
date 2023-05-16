@@ -1,0 +1,3 @@
+C:\Users\roman\OneDrive\Documents\GitHub\C-SharpProjects\ConsoleAppPractice\ConsoleAppPractice\obj\Debug\ConsoleAppPractice.csproj.AssemblyReference.cache
+C:\Users\roman\OneDrive\Documents\GitHub\C-SharpProjects\ConsoleAppPractice\ConsoleAppPractice\obj\Debug\ConsoleAppPractice.csproj.SuggestedBindingRedirects.cache
+C:\Users\roman\OneDrive\Documents\GitHub\C-SharpProjects\ConsoleAppPractice\ConsoleAppPractice\obj\Debug\ConsoleAppPractice.csproj.CoreCompileInputs.cache
